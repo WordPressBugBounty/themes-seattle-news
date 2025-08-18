@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.8
 Requires PHP: 5.6
-Stable tag: 2.2
-Version: 2.2
+Stable tag: 2.3
+Version: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -73,6 +73,9 @@ License: MIT (http://opensource.org/licenses/MIT)
   https://pxhere.com/en/photo/1695954
 
 == Changelog ==
+
+@Version 2.3
+* We added the color of the comment-author and comment-link in the blog post area.
 
 @Version 2.2
 * We removed the text-decoration from the file download button in the blog post area.
