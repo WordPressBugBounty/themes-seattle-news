@@ -488,7 +488,9 @@ input[type="submit"]:focus {
 .widget p a {
 	color: #007bff;
 }
-
+.sidebar .widget dl dd a {
+	color: #007bff;
+}
 
 /*--------------------------------------------------------------
 =>> Footer Section & Widgets
