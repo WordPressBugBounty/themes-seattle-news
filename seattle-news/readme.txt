@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.8
 Requires PHP: 5.6
-Stable tag: 2.5
-Version: 2.5
+Stable tag: 3.2
+Version: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -73,6 +73,27 @@ License: MIT (http://opensource.org/licenses/MIT)
   https://pxhere.com/en/photo/1695954
 
 == Changelog ==
+
+@Version 3.2
+* We have removed the border around the accordion widget title in footer sidebar widget area.
+
+@Version 3.1
+* We have changed the border around the accordion widget in sidebar widget area.
+
+@Version 3.0
+* We have added the text underline color in the hyperlink of the sidebar widget title.
+
+@Version 2.9
+* We have added the underline in the hyperlink of the footer sidebar widget title.
+
+@Version 2.8
+* We have added the underline in the hyperlink of the sidebar widget title.
+
+@Version 2.7
+* We have enhanced the font size of the wp-block-file widget in the blog post area.
+
+@Version 2.6
+* We added the list style of the wp-block-latest-posts in the blog post area.
 
 @Version 2.5
 * We added the border and space between the wp-block-latest-comments widget in the blog post area.

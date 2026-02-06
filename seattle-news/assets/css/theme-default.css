@@ -491,6 +491,14 @@ input[type="submit"]:focus {
 .sidebar .widget dl dd a {
 	color: #007bff;
 }
+.sidebar .widget .wp-block-heading a {
+    color: #007bff;
+}
+/*Footer Sidebar Update Released*/
+.footer-sidebar .widget .wp-block-heading a {
+    color: #007bff;
+}
+
 
 /*--------------------------------------------------------------
 =>> Footer Section & Widgets
