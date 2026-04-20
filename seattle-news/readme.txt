@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.9
 Requires PHP: 5.6
-Stable tag: 3.6
-Version: 3.6
+Stable tag: 3.7
+Version: 3.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -73,6 +73,9 @@ License: MIT (http://opensource.org/licenses/MIT)
   https://pxhere.com/en/photo/1695954
 
 == Changelog ==
+
+@Version 3.7
+* We have fixed border issue accordion widget in sidebar widget area.
 
 @Version 3.6
 * We added the space around the WP Google Map Widget in the sidebar.
