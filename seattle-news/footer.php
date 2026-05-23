@@ -13,7 +13,7 @@ $seattle_news_footer_widgets_enabled = get_theme_mod('newsexo_footer_widgets_ena
 $seattle_news_footer_style = get_theme_mod('newsexo_footer_style', 'dark');
 $seattle_news_footer_container_size = get_theme_mod('newsexo_footer_container_size', 'container-full');
 $seattle_news_footer_copright_enabled = get_theme_mod('newsexo_footer_copright_enabled', true);
-$seattle_news_footer_copright_text = get_theme_mod('newsexo_footer_copright_text', '' . __('Copyright', 'seattle-news') . ' &copy; 2025 | ' . __('Powered by', 'seattle-news') . ' <a href="//wordpress.org/">WordPress</a>');
+$seattle_news_footer_copright_text = get_theme_mod('newsexo_footer_copright_text', '' . __('Copyright', 'seattle-news') . ' &copy; 2026 | ' . __('Powered by', 'seattle-news') . ' <a href="//wordpress.org/">WordPress</a>');
 $seattle_news_scroll_to_top_enabled = get_theme_mod('newsexo_scroll_to_top_enabled', true);
 
 
